@@ -173,7 +173,7 @@ export const teamMembers = [
   {
     id: 1,
     name: "Muhammad Anas",
-    position: "Co-founder & AI/ML Engineer",
+    position: "Founder & Software Engineer",
     bio: "Building smart, scalable AI systems that power the next wave of tech innovation.",
     image: anasImg,
     skills: ["JavaScript", "Python", "DeFi", "Ethereum"],
@@ -186,7 +186,7 @@ export const teamMembers = [
   {
     id: 2,
     name: "Ruhan Ahmed",
-    position: "Co-founder & AI Developer",
+    position: "Co-founder & Mobile App Developer",
     bio: "Driving intelligent innovation through cutting-edge AI solutions",
     image: ruhanImg,
     skills: ["UI/UX", "Vibe Coding", "Kotlin", "AI Workflows"],
@@ -214,7 +214,7 @@ export const teamMembers = [
 export const contactInfo = {
   email: "inovaxxsolutions@gmail.com",
   location: "Karachi, Pakistan",
-  phone: "+92 XXX XXXXXXX",
+  phone: "+92 3392005365",
   social: {
     linkedin: "#",
     github: "#",
